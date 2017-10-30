@@ -44,19 +44,19 @@
 
 		[d3 github](https://github.com/jJayyyyyyy/d3)
 
-	*	[Udacity 2048](https://cn.udacity.com/course/make-your-own-2048--ud248)
+*	[Udacity 2048](https://cn.udacity.com/course/make-your-own-2048--ud248)
 
 		[2048 web](http://gabrielecirulli.github.io/2048/)
 
 		[2048 github](https://github.com/jJayyyyyyy/2048)
 
-3.	Java
+##	Java
 
 *	[中国大学MOOC 浙大翁恺陈越](http://www.icourse163.org/course/0809ZJU013-1001541001)
 
 *	[中国大学MOOC 浙大翁恺陈越](http://www.icourse163.org/course/0809ZJU012-1001542001)
 
-4.	Android
+##	Android
 
 *	[Udacity Android](https://classroom.udacity.com/courses/ud837)
 
