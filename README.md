@@ -44,11 +44,13 @@
 
 		[d3 github](https://github.com/jJayyyyyyy/d3)
 
-*	[Udacity 2048](https://cn.udacity.com/course/make-your-own-2048--ud248)
+*	2048
 
-		[2048 web](http://gabrielecirulli.github.io/2048/)
+	*	[Udacity course](https://cn.udacity.com/course/make-your-own-2048--ud248)
 
-		[2048 github](https://github.com/jJayyyyyyy/2048)
+		[2048 web](https://gabrielecirulli.github.io/2048/)
+
+		[2048 github repo](https://github.com/jJayyyyyyy/2048)
 
 ##	Java
 
