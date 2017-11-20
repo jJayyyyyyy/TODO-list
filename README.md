@@ -35,7 +35,6 @@
 
 	https://github.com/NickeManarin/ScreenToGif
 
-
 ##	js
 
 *	d3.js
@@ -51,6 +50,16 @@
 		[2048 web](https://gabrielecirulli.github.io/2048/)
 
 		[2048 github repo](https://github.com/jJayyyyyyy/2048)
+
+##	C
+
+*	[ZJU-ACLLib](https://github.com/jJayyyyyyy/ACLLib)
+
+*	[lighttpd](https://github.com/lighttpd/lighttpd1.4)
+
+##	Python
+
+*	[ItChat](https://github.com/littlecodersh/ItChat)
 
 ##	Java
 
