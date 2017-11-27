@@ -32,6 +32,8 @@
 	http://www.cnblogs.com/Icebird/archive/2006/06/21/CSharpMine.html
 	
 	[coding train - minesweeper with p5.js (not complete)](https://github.com/CodingTrain/Rainbow-Code/tree/master/CodingChallenges/CC_71_minesweeper)
+	
+	[Microsoft Minesweeper OL](https://testdrive-archive.azurewebsites.net/Performance/Minesweeper/Default.html)
 
 *	截屏，录屏
 
