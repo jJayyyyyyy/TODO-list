@@ -81,3 +81,6 @@
 
 *	[Udacity Android](https://classroom.udacity.com/courses/ud837)
 
+##	OS
+
+*	[操作系统_清华大学](https://www.bilibili.com/video/av6538245/)
