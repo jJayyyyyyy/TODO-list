@@ -41,6 +41,8 @@
 
 ##	js
 
+*	[w3cschool, html+css+js](http://www.w3school.com.cn/)
+
 *	d3.js
 
 	*	[Udacity data visualization and d3](https://cn.udacity.com/course/data-visualization-and-d3js--ud507)
@@ -55,6 +57,10 @@
 
 		[2048 github repo](https://github.com/jJayyyyyyy/2048)
 
+*	[vue](https://cn.vuejs.org/)
+
+*	[前端学习之路](https://zhuanlan.zhihu.com/p/21935921)
+
 ##	php
 
 *	
@@ -65,9 +71,13 @@
 
 *	[lighttpd](https://github.com/lighttpd/lighttpd1.4)
 
+*	考研大群有csapp，看第3章
+
 ##	Python
 
 *	[ItChat](https://github.com/littlecodersh/ItChat)
+
+*	[网页开发](https://classroom.udacity.com/courses/cs253)
 
 *	[TensorFlow 试手](https://github.com/tensorflow/tensorflow)
 
@@ -83,4 +93,6 @@
 
 ##	OS
 
-*	[操作系统_清华大学](https://www.bilibili.com/video/av6538245/)
+*	[操作系统_清华大学 向勇、陈渝](https://www.bilibili.com/video/av6538245/)
+
+*	[操作系统 哈工大 李志军](https://github.com/hoverwinter/HIT-OSLab)
