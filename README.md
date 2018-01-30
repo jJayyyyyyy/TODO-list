@@ -41,7 +41,8 @@
 
 ##	js
 
-*	[w3cschool, html+css+js](http://www.w3school.com.cn/)
+*	[w3school-cn, html+css+js](http://www.w3school.com.cn/)
+*	[w3school-en, html+css+js](https://www.w3schools.com/)
 
 *	d3.js
 
@@ -57,7 +58,8 @@
 
 		[2048 github repo](https://github.com/jJayyyyyyy/2048)
 
-*	[vue](https://cn.vuejs.org/)
+*	[vue-en](https://vuejs.org/)
+*	[vue-cn](https://cn.vuejs.org/)
 
 *	[前端学习之路](https://zhuanlan.zhihu.com/p/21935921)
 
@@ -69,7 +71,7 @@
 
 *	[ZJU-ACLLib](https://github.com/jJayyyyyyy/ACLLib)
 
-*	[lighttpd](https://github.com/lighttpd/lighttpd1.4)
+*	[Tinyhttpd](https://github.com/jJayyyyyyy/Tinyhttpd)
 
 *	考研大群有csapp，看第3章
 
